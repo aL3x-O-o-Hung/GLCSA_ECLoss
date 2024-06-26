@@ -1,4 +1,4 @@
-# # Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection
+# Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection
 
 This is the official code implementation of our MICCAI paper [Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection]()
 
