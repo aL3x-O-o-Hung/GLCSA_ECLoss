@@ -10,4 +10,10 @@ This is a followup work of our previous works, [CSAM: A 2.5D Cross-Slice Attenti
 
 If you use this code or the paper in your work, please cite our paper:
 ```bash
+@article{hung2024cross,
+  title={Cross-Slice Attention and Evidential Critical Loss for Uncertainty-Aware Prostate Cancer Detection},
+  author={Hung, Alex Ling Yu and Zheng, Haoxin and Zhao, Kai and Pang, Kaifeng and Terzopoulos, Demetri and Sung, Kyunghyun},
+  journal={arXiv preprint arXiv:2407.01146},
+  year={2024}
+}
 ```
